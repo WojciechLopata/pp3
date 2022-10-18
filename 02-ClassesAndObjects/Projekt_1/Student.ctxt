@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=void\ SayHello()
+comment1.text=Dach\ do\ ty\u0142u\ wciskam\ gaz\ abonent\ niedostepny\ nie\ chcesz\ sluchac\ moich\ klamst\ o\ tym\ co\ robie\ w\ weekend\ y\r\n\ \ \ \ kocham\ j\u0105\ j\u0105\ dlaczego\ budze\ si\u0119\ z\ inna\ kocham\ j\u0105\ j\u0105\ j\u0105\ dlaczzego\ budz\u0119\ si\u0119\ inn\u0105.\r\n\ \ \ \ 5\ w\ nocy\ po\ koncercie\ jak\ mam\ nie\ bra\u0107\ jej\ ze\ sob\u0105\ ona\ mi\ pomo\u017Ce\ usn\u0105\u0107\ jak\ nikgo\ nie\ ma\ obok,\ hotelowy\ pok\u00F3j\ telefon\ w\ trybie\ samolot\ czas\ policzy\u0107\ hajs\ chod\u017A\ whisky\ moja\ \u017Cono\r\n
+comment2.params=
+comment2.target=void\ displayName()
+comment3.params=
+comment3.target=void\ displayAge()
+comment4.params=
+comment4.target=void\ displayStudent()
+comment5.params=
+comment5.target=void\ idStatusChange()
+comment6.params=
+comment6.target=void\ displayId()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
