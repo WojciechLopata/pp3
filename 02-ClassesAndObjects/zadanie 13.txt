@@ -1,0 +1,20 @@
+a.) smartphone:
+Model
+Producent 
+Ilośc pamięci
+Kolor 
+Numer seryjny
+
+włącz się 
+zadzwoń 
+zrób zdjęcie
+b.) bank account:
+numer rachunku 
+właściciel
+nazwa banku(bądz dane o nim)
+Stan konta
+Ilośc posiadanych kart debetowych
+
+wypłac pieniądze 
+wpłać pieniądze
+zamknij konto
