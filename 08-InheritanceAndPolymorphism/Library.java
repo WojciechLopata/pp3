@@ -9,7 +9,7 @@ public class Library {
 
     }
     public void display(){
-        int size=books.length();
+        int size=books.size();
         for (int i=0;size>i;i++){
             books.get(i).display();
         }
